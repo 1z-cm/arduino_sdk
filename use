@@ -1,1 +1,5 @@
-
+1.	打开首选项将json地址复制粘贴到开发版管理器地址处
+地址：https://github.com/tuya/arduino-tuyaopen/releases/download/global/package_tuya_open_index.json
+https://gitee.com/tuya-open/arduino-tuyaopen/releases/download/global/package_tuya_open_index_cn.json
+2.	在开发板管理器中搜索”tuya”,下载开发板
+3.	在“C:\Users\Administrator\AppData\Local\Arduino15\packages\tuya_open”路径中找到下载的固件
